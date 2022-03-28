@@ -1,7 +1,7 @@
-# datasctructure
-code academy algorithm and datasctructure
+# Node
+## code academy algorithm and datastructure
 
-Python Nodes Review
+# Python Nodes Review
 We have a few zany characters to keep track of and Python nodes may do just the trick. Let’s get started…
 
 Instructions
